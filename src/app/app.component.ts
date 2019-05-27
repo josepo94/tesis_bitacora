@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'app-verificacionFechas',
+  templateUrl: 'pantallas/app.Fechas.html'
 })
 export class AppComponent {
   title = 'bitacora-app';
